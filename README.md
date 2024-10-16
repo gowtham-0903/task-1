@@ -64,6 +64,7 @@ Ensure the following software is installed:
 
 **Resources**
 The responses/ folder includes screenshots of the MongoDB query responses and the aggregation pipeline results.
+
 The data/ folder contains sample data for testing and demonstration purposes.
 
 
