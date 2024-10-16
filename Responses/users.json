@@ -1,0 +1,16 @@
+[
+  {
+    "app": "Wysa",
+    "country": "US",
+    "timezone": "Americas/Los Angeles",
+    "username": "A",
+    "version": 70
+  },
+  {
+    "app": "Wysa",
+    "country": "US",
+    "timezone": "Americas/Los Angeles",
+    "username": "B",
+    "version": 70
+  }
+]

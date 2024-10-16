@@ -1,0 +1,126 @@
+{
+  "activity": [
+    {
+      "activity": "Walk",
+      "calories": 508,
+      "distance": 0.0,
+      "duration": "1:47:22 PM",
+      "steps": 5768
+    },
+    {
+      "activity": "Run",
+      "calories": 460,
+      "distance": 6.465203,
+      "duration": "6:37:14 PM",
+      "steps": 5760
+    },
+    {
+      "activity": "Walk",
+      "calories": 343,
+      "distance": 0.0,
+      "duration": "1:25:13 PM",
+      "steps": 4812
+    },
+    {
+      "activity": "Walk",
+      "calories": 141,
+      "distance": 0.0,
+      "duration": "8:48:08 AM",
+      "steps": 1640
+    },
+    {
+      "activity": "Fitstar: Personal Trainer",
+      "calories": 45,
+      "distance": 0.0,
+      "duration": "10:30:22 AM",
+      "steps": 117
+    },
+    {
+      "activity": "Walk",
+      "calories": 262,
+      "distance": 0.0,
+      "duration": "8:01:15 AM",
+      "steps": 2369
+    },
+    {
+      "activity": "Walk",
+      "calories": 115,
+      "distance": 0.0,
+      "duration": "3:17:30 PM",
+      "steps": 1393
+    },
+    {
+      "activity": "Walk",
+      "calories": 133,
+      "distance": 0.0,
+      "duration": "12:03:30 PM",
+      "steps": 1536
+    },
+    {
+      "activity": "Walk",
+      "calories": 508,
+      "distance": 0.0,
+      "duration": "1:47:22 PM",
+      "steps": 5768
+    },
+    {
+      "activity": "Run",
+      "calories": 460,
+      "distance": 6.465203,
+      "duration": "6:37:14 PM",
+      "steps": 5760
+    },
+    {
+      "activity": "Walk",
+      "calories": 343,
+      "distance": 0.0,
+      "duration": "1:25:13 PM",
+      "steps": 4812
+    },
+    {
+      "activity": "Walk",
+      "calories": 141,
+      "distance": 0.0,
+      "duration": "8:48:08 AM",
+      "steps": 1640
+    },
+    {
+      "activity": "Fitstar: Personal Trainer",
+      "calories": 45,
+      "distance": 0.0,
+      "duration": "10:30:22 AM",
+      "steps": 117
+    },
+    {
+      "activity": "Walk",
+      "calories": 262,
+      "distance": 0.0,
+      "duration": "8:01:15 AM",
+      "steps": 2369
+    },
+    {
+      "activity": "Walk",
+      "calories": 115,
+      "distance": 0.0,
+      "duration": "3:17:30 PM",
+      "steps": 1393
+    },
+    {
+      "activity": "Walk",
+      "calories": 133,
+      "distance": 0.0,
+      "duration": "12:03:30 PM",
+      "steps": 1536
+    }
+  ],
+  "date": "Wed, 16 Oct 2024 05:57:13 GMT",
+  "mood_score": 8,
+  "sleep": {
+    "deep_sleep": null,
+    "duration_in_bed": null,
+    "hours_of_sleep": null,
+    "sleep_score": null
+  },
+  "user": "670f5579a457d30548233370",
+  "username": "A"
+}

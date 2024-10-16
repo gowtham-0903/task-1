@@ -1,0 +1,128 @@
+[
+  {
+    "date": "Fri, 01 Apr 2022 00:00:00 GMT",
+    "deepSleep": "21.00%",
+    "durationInBed": "9:49pm - 6:01am",
+    "heartRateBelowResting": "98.00%",
+    "hoursOfSleep": "7:22:00",
+    "remSleep": "18.00%",
+    "sleepScore": 90
+  },
+  {
+    "date": "Sat, 02 Apr 2022 00:00:00 GMT",
+    "deepSleep": "21.00%",
+    "durationInBed": "9:50pm - 7:26am",
+    "heartRateBelowResting": "73.00%",
+    "hoursOfSleep": "8:40:00",
+    "remSleep": "21.00%",
+    "sleepScore": 89
+  },
+  {
+    "date": "Sun, 03 Apr 2022 00:00:00 GMT",
+    "deepSleep": "17.00%",
+    "durationInBed": "11:29pm - 9:54am",
+    "heartRateBelowResting": "26.00%",
+    "hoursOfSleep": "8:52:00",
+    "remSleep": "21.00%",
+    "sleepScore": 81
+  },
+  {
+    "date": "Mon, 04 Apr 2022 00:00:00 GMT",
+    "deepSleep": "19.00%",
+    "durationInBed": "10:12pm - 5:49am",
+    "heartRateBelowResting": "99.00%",
+    "hoursOfSleep": "6:50:00",
+    "remSleep": "17.00%",
+    "sleepScore": 83
+  },
+  {
+    "date": "Tue, 05 Apr 2022 00:00:00 GMT",
+    "deepSleep": "21.00%",
+    "durationInBed": "9:45pm - 5:43am",
+    "heartRateBelowResting": "97.00%",
+    "hoursOfSleep": "6:57:00",
+    "remSleep": "18.00%",
+    "sleepScore": 84
+  },
+  {
+    "date": "Wed, 06 Apr 2022 00:00:00 GMT",
+    "deepSleep": "19.00%",
+    "durationInBed": "9:22pm - 6:14am",
+    "heartRateBelowResting": "77.00%",
+    "hoursOfSleep": "7:27:00",
+    "remSleep": "17.00%",
+    "sleepScore": 83
+  },
+  {
+    "date": "Thu, 07 Apr 2022 00:00:00 GMT",
+    "deepSleep": "14.00%",
+    "durationInBed": "10:05pm - 6:55am",
+    "heartRateBelowResting": "68.00%",
+    "hoursOfSleep": "7:57:00",
+    "remSleep": "22.00%",
+    "sleepScore": 87
+  },
+  {
+    "date": "Fri, 01 Apr 2022 00:00:00 GMT",
+    "deepSleep": "21.00%",
+    "durationInBed": "9:49pm - 6:01am",
+    "heartRateBelowResting": "98.00%",
+    "hoursOfSleep": "7:22:00",
+    "remSleep": "18.00%",
+    "sleepScore": 90
+  },
+  {
+    "date": "Sat, 02 Apr 2022 00:00:00 GMT",
+    "deepSleep": "21.00%",
+    "durationInBed": "9:50pm - 7:26am",
+    "heartRateBelowResting": "73.00%",
+    "hoursOfSleep": "8:40:00",
+    "remSleep": "21.00%",
+    "sleepScore": 89
+  },
+  {
+    "date": "Sun, 03 Apr 2022 00:00:00 GMT",
+    "deepSleep": "17.00%",
+    "durationInBed": "11:29pm - 9:54am",
+    "heartRateBelowResting": "26.00%",
+    "hoursOfSleep": "8:52:00",
+    "remSleep": "21.00%",
+    "sleepScore": 81
+  },
+  {
+    "date": "Mon, 04 Apr 2022 00:00:00 GMT",
+    "deepSleep": "19.00%",
+    "durationInBed": "10:12pm - 5:49am",
+    "heartRateBelowResting": "99.00%",
+    "hoursOfSleep": "6:50:00",
+    "remSleep": "17.00%",
+    "sleepScore": 83
+  },
+  {
+    "date": "Tue, 05 Apr 2022 00:00:00 GMT",
+    "deepSleep": "21.00%",
+    "durationInBed": "9:45pm - 5:43am",
+    "heartRateBelowResting": "97.00%",
+    "hoursOfSleep": "6:57:00",
+    "remSleep": "18.00%",
+    "sleepScore": 84
+  },
+  {
+    "date": "Wed, 06 Apr 2022 00:00:00 GMT",
+    "deepSleep": "19.00%",
+    "durationInBed": "9:22pm - 6:14am",
+    "heartRateBelowResting": "77.00%",
+    "hoursOfSleep": "7:27:00",
+    "remSleep": "17.00%",
+    "sleepScore": 83
+  },
+  {
+    "date": "Thu, 07 Apr 2022 00:00:00 GMT",
+    "deepSleep": "14.00%",
+    "durationInBed": "10:05pm - 6:55am",
+    "heartRateBelowResting": "68.00%",
+    "hoursOfSleep": "7:57:00",
+    "remSleep": "22.00%",
+    "sleepScore": 87
+  }
+]

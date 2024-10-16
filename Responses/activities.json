@@ -1,0 +1,178 @@
+[
+  {
+    "activity": "Walk",
+    "calories": 508,
+    "date": "Fri, 01 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 0.0,
+    "endTime": "1:47:22 PM",
+    "logType": "auto_detected",
+    "startTime": "12:21:10 PM",
+    "steps": 5768
+  },
+  {
+    "activity": "Run",
+    "calories": 460,
+    "date": "Fri, 01 Apr 2022 00:00:00 GMT",
+    "distance": 6.465203,
+    "elevationGain": 46.33,
+    "endTime": "6:37:14 PM",
+    "logType": "tracker",
+    "startTime": "6:01:08 PM",
+    "steps": 5760
+  },
+  {
+    "activity": "Walk",
+    "calories": 343,
+    "date": "Sat, 02 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 91.44,
+    "endTime": "1:25:13 PM",
+    "logType": "auto_detected",
+    "startTime": "12:26:20 PM",
+    "steps": 4812
+  },
+  {
+    "activity": "Walk",
+    "calories": 141,
+    "date": "Sun, 03 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 15.24,
+    "endTime": "8:48:08 AM",
+    "logType": "auto_detected",
+    "startTime": "8:30:12 AM",
+    "steps": 1640
+  },
+  {
+    "activity": "Fitstar: Personal Trainer",
+    "calories": 45,
+    "date": "Mon, 04 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 0.0,
+    "endTime": "10:30:22 AM",
+    "logType": "fitstar",
+    "startTime": "10:24:12 AM",
+    "steps": 117
+  },
+  {
+    "activity": "Walk",
+    "calories": 262,
+    "date": "Tue, 05 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 30.48,
+    "endTime": "8:01:15 AM",
+    "logType": "auto_detected",
+    "startTime": "7:37:22 AM",
+    "steps": 2369
+  },
+  {
+    "activity": "Walk",
+    "calories": 115,
+    "date": "Wed, 06 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 6.096,
+    "endTime": "3:17:30 PM",
+    "logType": "auto_detected",
+    "startTime": "3:02:08 PM",
+    "steps": 1393
+  },
+  {
+    "activity": "Walk",
+    "calories": 133,
+    "date": "Thu, 07 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 9.144,
+    "endTime": "12:03:30 PM",
+    "logType": "auto_detected",
+    "startTime": "11:46:26 AM",
+    "steps": 1536
+  },
+  {
+    "activity": "Walk",
+    "calories": 508,
+    "date": "Fri, 01 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 0.0,
+    "endTime": "1:47:22 PM",
+    "logType": "auto_detected",
+    "startTime": "12:21:10 PM",
+    "steps": 5768
+  },
+  {
+    "activity": "Run",
+    "calories": 460,
+    "date": "Fri, 01 Apr 2022 00:00:00 GMT",
+    "distance": 6.465203,
+    "elevationGain": 46.33,
+    "endTime": "6:37:14 PM",
+    "logType": "tracker",
+    "startTime": "6:01:08 PM",
+    "steps": 5760
+  },
+  {
+    "activity": "Walk",
+    "calories": 343,
+    "date": "Sat, 02 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 91.44,
+    "endTime": "1:25:13 PM",
+    "logType": "auto_detected",
+    "startTime": "12:26:20 PM",
+    "steps": 4812
+  },
+  {
+    "activity": "Walk",
+    "calories": 141,
+    "date": "Sun, 03 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 15.24,
+    "endTime": "8:48:08 AM",
+    "logType": "auto_detected",
+    "startTime": "8:30:12 AM",
+    "steps": 1640
+  },
+  {
+    "activity": "Fitstar: Personal Trainer",
+    "calories": 45,
+    "date": "Mon, 04 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 0.0,
+    "endTime": "10:30:22 AM",
+    "logType": "fitstar",
+    "startTime": "10:24:12 AM",
+    "steps": 117
+  },
+  {
+    "activity": "Walk",
+    "calories": 262,
+    "date": "Tue, 05 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 30.48,
+    "endTime": "8:01:15 AM",
+    "logType": "auto_detected",
+    "startTime": "7:37:22 AM",
+    "steps": 2369
+  },
+  {
+    "activity": "Walk",
+    "calories": 115,
+    "date": "Wed, 06 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 6.096,
+    "endTime": "3:17:30 PM",
+    "logType": "auto_detected",
+    "startTime": "3:02:08 PM",
+    "steps": 1393
+  },
+  {
+    "activity": "Walk",
+    "calories": 133,
+    "date": "Thu, 07 Apr 2022 00:00:00 GMT",
+    "distance": 0.0,
+    "elevationGain": 9.144,
+    "endTime": "12:03:30 PM",
+    "logType": "auto_detected",
+    "startTime": "11:46:26 AM",
+    "steps": 1536
+  }
+]
