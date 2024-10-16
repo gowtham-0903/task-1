@@ -15,16 +15,16 @@ class DataLoader:
 
         with open(file_path, 'r') as file:
             reader = csv.reader(file)
-            header = next(reader)  # Skip the header
+            header = next(reader) 
 
             for row in reader:
-                user_id = row[0]  # Assuming first column is the username
+                user_id = row[0]  
                 unique_users.add(user_id)
 
                 # Insert activity data
                 activity_data = {
-                    "user": DataLoader.get_user_id(user_id),  # Fetches or creates user
-                    "date": datetime.strptime(row[1], '%m/%d/%y'),  # Date field
+                    "user": DataLoader.get_user_id(user_id),  
+                    "date": datetime.strptime(row[1], '%m/%d/%y'), 
                     "startTime": row[2],
                     "endTime": row[3],
                     "activity": row[5],
@@ -64,14 +64,13 @@ class DataLoader:
     def load_sleep_data(file_path):
         with open(file_path, 'r') as file:
             reader = csv.reader(file)
-            header = next(reader)  # Skip the header
+            header = next(reader) 
 
             for row in reader:
-                user_id = row[0]  # Assuming first column is the username
-
+                user_id = row[0]  
                 sleep_data = {
-                    "user": DataLoader.get_user_id(user_id),  # Fetches or creates user
-                    "date": datetime.strptime(row[2], '%m/%d/%y'),  # Date field
+                    "user": DataLoader.get_user_id(user_id),  
+                    "date": datetime.strptime(row[2], '%m/%d/%y'),  
                     "sleepScore": int(row[3]),
                     "hoursOfSleep": row[4],
                     "remSleep": row[5],
