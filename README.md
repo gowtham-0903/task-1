@@ -43,6 +43,28 @@ Steps:
 2. **Transform:** Aggregate mood score, activity, and sleep data into a summarized format for each user.
 3. **Write to JSON:** Save the aggregated results to a JSON file for further processing or reporting.
 
+**Project Structure**
+**The following folder structure organizes the data and response screenshots:**
+
+**data/:**
+Contains sample user data, mood scores, activity logs, and sleep metrics used in the aggregation pipeline.
+
+**responses/:**
+Contains screenshots of responses from MongoDB queries and aggregation pipeline outputs.
+
+**Running the Project**
+
+**Prerequisites**
+Ensure the following software is installed:
+
+**MongoDB** (with access to collections mentioned above)
+**Python** (3.x)
+**Virtualenv** (optional for virtual environment)
+**Required Python packages** (e.g.,flask, pymongo for MongoDB interaction)
+
+**Resources**
+The responses/ folder includes screenshots of the MongoDB query responses and the aggregation pipeline results.
+The data/ folder contains sample data for testing and demonstration purposes.
 
 
 This project successfully fetches mood, activity, and sleep data for active users on a given day using MongoDB's aggregation pipeline and provides a batch process to extract and write the data to a JSON file. This lays the groundwork for computing the Perceived Energy Score.
